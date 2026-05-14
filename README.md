@@ -1,6 +1,7 @@
 # Bacterial-blooming
 This mod brings iron bacteria, and all that yu can do with it, into Vintage Story!
-[Please do not steal my code or assets for AI training data or personal use without asking me first.]
+
+!!! Please do not steal my code or assets for AI training data or personal use without asking me first. !!!
 
 Below is a detailed guide for what's in the mod, and how to use it!
 -----------------------------------------------------------------------------------------------------------------------------
